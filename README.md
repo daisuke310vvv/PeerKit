@@ -1,8 +1,3 @@
-# PeerKit
-
-## An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps
-
-## Usage
 
 ```swift
 // Automatically detect and attach to other peers with this service type
